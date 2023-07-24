@@ -1,6 +1,4 @@
 flows:
-  6ba0970a-12f3-4f97-ba28-77e736545681: {ver: 1, file: FLow1.snapshot, comments: '',
-    author: anonymous, created: 1690178518560, flowName: FLow1, flowDesc: ''}
   74acbc3f-6a7b-416d-a0c2-3dd4d15379a1: {ver: 1, file: Flow.snapshot, comments: '',
     author: anonymous, created: 1690179208087, flowName: Flow, flowDesc: ''}
 layoutVer: 1
