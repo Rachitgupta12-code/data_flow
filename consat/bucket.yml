@@ -1,8 +1,6 @@
 flows:
   12230824-46ce-4b88-9850-38e2c1179ba9: {ver: 1, file: Flow3.snapshot, comments: '',
     author: anonymous, created: 1690270787710, flowName: Flow3, flowDesc: ''}
-  36393667-cf9a-401f-b076-3311bdcaeb2e: {ver: 1, file: Flow2.snapshot, comments: '',
-    author: anonymous, created: 1690270613235, flowName: Flow2, flowDesc: ''}
   a4de83d2-1b72-4700-b390-06af9698ca0b: {ver: 1, file: Flow5.snapshot, comments: '',
     author: anonymous, created: 1690271294874, flowName: Flow5, flowDesc: ''}
 layoutVer: 1
