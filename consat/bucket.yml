@@ -1,5 +1,7 @@
 flows:
   99212a47-1e7c-491b-9b14-f84a3d42a096: {ver: 1, file: Flow1.snapshot, comments: '',
     author: anonymous, created: 1690450646870, flowName: Flow1, flowDesc: ''}
+  64cf10e3-de7e-4dbe-a6b3-4e72e4b95801: {ver: 1, file: Flow2.snapshot, comments: '',
+    author: anonymous, created: 1690450882191, flowName: Flow2, flowDesc: ''}
 layoutVer: 1
 bucketId: 07d26870-6d1b-40c5-8fb6-280410546ef2
